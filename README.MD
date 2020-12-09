@@ -24,7 +24,7 @@ This version does not include hot reloading. You can do that by setting up the [
 The below packages are already included. Add any additional packages using `npm install`.
 
 ## Tools
-nodemon
+nodemon\
 concurrently
 
 
