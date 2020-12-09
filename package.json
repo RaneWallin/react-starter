@@ -1,20 +1,20 @@
 {
-  "name": "us-house",
+  "name": "react-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic React starter app with a Node.js server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "node ./server/index.js",
     "server:dev": "nodemon ./server/index.js",
-    "react:dev": "webpack"
+    "react:dev": "webpack --mode development --watch"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Rane Wallin",
+  "license": "MIT",
   "dependencies": {
     "@babel/runtime": "^7.10.4",
-    "@quickbaseoss/babel-plugin-styled-components-css-namespace": "^1.0.1",
     "babel-plugin-styled-components": "^1.10.7",
+    "concurrently": "^5.3.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
