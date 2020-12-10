@@ -60,7 +60,7 @@ The below packages are already included. Additional packages can be installed us
 `webpack`\
 `webpack-cli`\
 `babel-loader` - Allows webpack to use babel to transpile project\
-style-loader - gets CSS and resolves imports\
+`style-loader` - gets CSS and resolves imports\
 `css-loader` - inserts CSS into page\
 `html-webpack-plugin` - use a template to define how`index.html` should look
 
