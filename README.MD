@@ -68,7 +68,7 @@ The below packages are already included. Additional packages can be installed us
 ## Changelog
 ### 0.1.1 - 12/10/2020
 - Removed react-icons and react-loader. 
-- Removed `public/index_template.html` from `.gitignore`
+- Modified `.gitignore` so `index_template.html` will be tracked
 - Added additional documentation.
 
 ### 0.1.0 - 12/09/2020
