@@ -22,7 +22,7 @@ The React app is in the `client/` folder. It is setup to inject the single page 
 
 Webpack bundles the transpiled Javascript into `public/bundle.js`. It creates an `index.html` file using `public/index_template.html` as a template.
 
-`public/index_template.thml` is the place to put in any static javascript imports, analytics, meta data, etc.
+`public/index_template.html` is the place to put in any static javascript imports, analytics, metadata, etc. Don't forget to change the page title in the template.
 
 The Node.js server is in the `server/` folder. The base version only serves static files from the `public/` directory.
 
