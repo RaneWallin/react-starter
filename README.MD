@@ -54,7 +54,7 @@ The below packages are already included. Additional packages can be installed us
 `babel/core`\
 `babel/runtime` - allows `async`/`await` and other ES8+ features\
 `babel-plugin-styled-components` - improved support for styled-components \
-`babel/plugin-transform-runtime` - allows `async`/`await` and other ES*+ features\
+`babel/plugin-transform-runtime` - allows `async`/`await` and other ES8+ features\
 `babel/preset-env` - transpiles to ES6+\
 `babel/preset-react` - supports React and JSX\
 `webpack`\
