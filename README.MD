@@ -31,11 +31,11 @@ The Node.js server is in the `server/` folder. The base version only serves stat
 This version does not include hot reloading. You can do that by setting up the [webpack-dev-server](https://github.com/webpack/webpack-dev-server). Otherwise, when you make changes just refresh the page.
 
 ## Included packages
-The below packages are already included. Add any additional packages using `npm install`.
+The below packages are already included. Additional packages can be installed using `npm install`.
 
 ### Tools
-nodemon - runs a development server \
-concurrently - lets you run multiple npm commands in a single terminal
+`nodemon` - runs a development server \
+`concurrently` - lets you run multiple npm commands in a single terminal
 
 
 ### Front end
