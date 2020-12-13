@@ -2,6 +2,8 @@
 
 This is a basic React starter project for people who don't want to use create-react-app. It allows you to easily update the webpack configuration without needing to eject the project. It also has a Node.js starter server to run the application. There is no need to create a separate server.
 
+You can start playing with this project immediately on [Gitch.com](https://glitch.com/~react-starter-no-frills). Just click the dropdown at the top and select "Remix Project."
+
 ## Install
 
 1. Fork the project
@@ -52,14 +54,14 @@ The below packages are already included. Additional packages can be installed us
 
 ### Webpack & Babel
 `babel/core`\
-`babel/runtime` - allows `async`/`await` and other ES8+ features\
+`babel/runtime` - allows `async`/`await` and other ES8+ features in the React app\
 `babel-plugin-styled-components` - improved support for styled-components \
-`babel/plugin-transform-runtime` - allows `async`/`await` and other ES8+ features\
+`babel/plugin-transform-runtime` - allows `async`/`await` and other ES8+ features in the React app\
 `babel/preset-env` - transpiles ES6+\
 `babel/preset-react` - supports React and JSX\
 `webpack`\
 `webpack-cli`\
-`babel-loader` - Allows webpack to use babel to transpile project\
+`babel-loader` - Allows webpack to use babel to transpile the React app\
 `style-loader` - gets CSS and resolves imports\
 `css-loader` - inserts CSS into page\
 `html-webpack-plugin` - use a template to define how`index.html` should look
