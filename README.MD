@@ -2,8 +2,6 @@
 
 This is a basic React starter project for people who don't want to use create-react-app. It allows you to easily update the webpack configuration without needing to eject the project. It also has a Node.js starter server to run the application. There is no need to create a separate server.
 
-You can start playing with this project immediately on [Gitch.com](https://glitch.com/~react-starter-no-frills). Just click the "Remix This" button below the preview.
-
 ## Install
 
 1. Fork the project
